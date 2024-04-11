@@ -14,3 +14,5 @@ Cara Uninstall :
 - Lakukan permission agar executable `chmod +x uninstall.sh`
 - Jalankan `sudo bash uninstall.sh`
 - Selesai
+
+NB : Berjalan sukses di Nobara Linux 39
