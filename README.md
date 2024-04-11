@@ -1,5 +1,7 @@
 # Cara Menginstall Cisco Packet Tracer di Fedora, dan Linux RPM Lainnya
 
+Karena tidak ada installer .rpm di Cisco Packet Tracer, inilah cara mensiasatinya apabila Anda menggunakan Linux Red Hat semacam Fedora, dsb
+
 Cara install :
 - Download installer .deb di web Netacad pastikan simpan di directory apapun, namun tetap berada di `/home`
 - Clone repository ini ke komputer lokal yang berisi `install.sh` dan `uninstall.sh`
